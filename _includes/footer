@@ -1,0 +1,18 @@
+<div id="foot">
+<p>
+{% if page.title %}
+	<a href="http://thanhlai.com/">[homepage]</a>&nbsp;
+	<span style="float: right">
+	<a href="http://thanhlai.com/contact.html" title="contact">[contact]
+	</span>
+{% else %}
+	<a href="about">[about]</a>&nbsp;
+	<span style="float: right">
+	<a href="https://github.com/thanhlai/board" title="contact">[source code]
+	</span>
+{% endif %}
+{% if page.converted %}
+	<a href="{{ page.path | remove_first: '_posts/' | replace_first: '.md', '.Rmd' | prepend: "//raw.githubusercontent.com/thanhlai/board/gh-pages/_code/" }}" title="Rmd file" target="_blank">[code]</a>
+{% endif %}
+</p>
+</div>
