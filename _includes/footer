@@ -1,7 +1,7 @@
 <div id="foot">
 <p>
 {% if page.title %}
-	<a href="http://thanhlai.com/">[homepage]</a>&nbsp;
+	<a href="http://thanhlai.com/board">[board]</a>&nbsp;
 	<span style="float: right">
 	<a href="http://thanhlai.com/contact.html" title="contact">[contact]
 	</span>
