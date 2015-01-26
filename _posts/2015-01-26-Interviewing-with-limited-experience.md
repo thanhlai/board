@@ -1,3 +1,7 @@
+---
+layout: post
+title: INTERVIEWING WITH LIMITED EXPERIENCE
+---
 Internships and co-ops are great ways to learn and to help you pad your resume a little bit before you start looking for jobs after graduation. When I was a in college I wanted to do an internship desperately so that I would be in a better position once I hit the job market. It worked out pretty well for me as my internship lead to a part time job which lead to a full time job the day after I graduated.
 
 Now I'm on the other side of the table and I've gone through a couple of cycles of co-op candidates at work and look across at a series of young hopefuls who also seek to pad their own resume's.
