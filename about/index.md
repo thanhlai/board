@@ -3,7 +3,7 @@ layout: post
 title: About
 ---
 
-Just a page that contains interesting links and learning materials.
+Just a page that contains interesting links and learning materials, or sometimes my thoughts.
 No Copyright Intended. :smile_cat:
 
 Back to [board](../index.html).
