@@ -1,6 +1,7 @@
 title: Board
 author: Thanh Lai
-url: http://thanhlai.com/board
+url: https://thanhlai.com/board
+enforce_ssl: https://thanhlai.com/board
 description: "Research, links, technical materials and journals."
 
 permalink: /:title/
